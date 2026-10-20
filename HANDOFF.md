@@ -84,4 +84,5 @@ reproducing the issue live before and after the change, and confirming the
 regression tests fail on the buggy code and pass on the fix.
 
 ## Time spent
-~60 minutes including setup.
+Approximately 57 minutes — started 2026-10-20 10:20 (-03), finished 11:17 (-03).
+(Times extracted from the Claude Code session transcript / memory.)
