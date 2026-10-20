@@ -1,3 +1,4 @@
 node_modules/
 .env
 data/store.json
+INVESTIGATION.md
